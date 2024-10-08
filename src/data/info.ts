@@ -42,7 +42,7 @@ export const info = {
       startDate: "Oct 2020",
       endDate: "Nov 2020",
       description: [
-        "✓ Production d’articles SEO de 1200 mots à destination des blogs et", "des boutiques en ligne.",
+        "✓ Production d’articles SEO à destination des blogs et", "des boutiques en ligne.",
       ],
     },
   ],
