@@ -7,9 +7,9 @@ import Experience from "@components/home/Experience.astro";
 import ProjectsWrapper from "@components/general/ProjectsWrapper.astro";
 import MetaHead from "@components/general/MetaHead.astro";
 
-const featureProjects = info.projects.reduce((accumulator, project) => {
-  if (accumulator.length < 6 && project.isFeatured) {
-    accumulator.push(project);
+const featureProjet = info.projet.reduce((accumulator, projet) => {
+  if (accumulator.length < 6 && projet.isFeatured) {
+    accumulator.push(projet);
   }
   return accumulator;
 }, []);
@@ -33,8 +33,8 @@ const featureProjects = info.projects.reduce((accumulator, project) => {
       <Experience title={"EDUCATION"} details={info.education} />
 
       <section>
-        <h2 class="w-[15rem] dark:text-light mt-16">FEATURE PROJECTS</h2>
-        <ProjectsWrapper projects={featureProjects} />
+        <h2 class="w-[15rem] dark:text-light mt-16">PROJETS</h2>
+        <ProjectsWrapper projects={featureProjet} />
       </section>
     </Layout>
   </body>

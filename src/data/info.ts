@@ -6,7 +6,7 @@ export const info = {
 
   j'aime jouer et dessiner avec des couleurs dans le code. Mon objectif est de fournir les
   interfaces les plus belles et les plus faciles à utiliser pour les sites web et les applications des startups. J'ai travaillé
-  depuis trois (03) ans sur plusieurs projets que je vous invite à découvrir.
+  depuis bientôt un (01) an sur plusieurs projets que je vous invite à découvrir.
    Les technologies que je maîtrise comprennent : HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, GSAP, Jquery, Vue JS et Electron JS. Avec ces technos,
    j'ai mené à bien plusieurs projets web "from scratch". 
    Cependant, j'apprends continuellement et je n'arrête jamais d'explorer de nouvelles technologies.
@@ -77,7 +77,7 @@ export const info = {
     }
   ],
 
-  projects: [
+  projet: [
     /*     {
           title: "Astro Portfolio",
           isFeatured: true,
