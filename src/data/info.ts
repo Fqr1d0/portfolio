@@ -1,98 +1,86 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://astro-portfolio-farid.vercel.app",
   name: "Farid ADOI",
-  jobDescription: "Frontend Developer",
-  about: `I'm a Frontend engineer based in Cotonou, Benin.
+  jobDescription: "Développeur Frontend",
+  about: `Je suis un développeur Frontend basé à Cotonou, Bénin.
 
-  I'm a frontend developer who likes to play and draw with colors in code. My goal is to provide the
-  most beautiful and easy-to-use interfaces for startups' websites and applications. I've been working
-  towards this goal for the past three (03) years on a number of projects that I invite you to discover.
-   The technologies I masterinclude HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, Vue JS and Electron JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Astro JS, SCSS and more. 
-  `,
+  Je suis un développeur frontend qui aime jouer et dessiner avec des couleurs dans le code. Mon objectif est de fournir les
+  interfaces les plus belles et les plus faciles à utiliser pour les sites web et les applications des startups. J'ai travaillé
+  depuis trois (03) ans sur plusieurs projets que je vous invite à découvrir.
+   Les technologies que je maîtrise comprennent HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, Vue JS et Electron JS. D'où,
+   j'ai mené à bien plusieurs projets web en partant de zéro. 
+   Cependant, j'apprends continuellement et je n'arrête jamais d'explorer de nouvelles technologies.
+   Ainsi, j'ai également acquis des connaissances en Astro JS, SCSS et plus encore.`,
 
   experience: [
     {
-      name: "Figurine France Manga",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "Figurine France Manga - Rédacteur/Intégrateur web Shopify",
+      location: "Cotonou, Bénin, Télétravail",
       startDate: "Oct 2022",
       endDate: "Fev 2024",
       description: [
-        "- ",
-        "- ",
+        "✓ Publication des produits relatifs aux mangas et intégration du contenu", 
+        "sur Shopify",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
+      name: "RAYNIS - Chargé de communication adjoint ",
+      location: "Cotonou, Bénin, Présentiel",
       startDate: "Nov 2020",
       endDate: "Apr 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "✓ Suivi des interactions dans le groupe et sur la page de l'entreprise",
+        "✓ Contact avec les utilisateurs de l'application RMobility sur le terrain",
+
       ],
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
+      name: "Tontexte.fr - Rédacteur web",
+      location: "Cotonou, Bénin, Télétravail",
       startDate: "Oct 2020",
       endDate: "Nov 2020",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "✓ Production d’articles SEO de 1200 mots à destination des blogs et", "des boutiques en ligne.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Coding Academy by EPITECH",
+      location: "EPITECH Bénin, Cotonou, Bénin",
+      startDate: "Jun 2024",
+      endDate: "-",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Développement web front-end",
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
+      name: "Licence académique des Lettres Modernes",
+      location: "Université d'Abomey-Calavi, Abomey-Calavi, Bénin",
+      startDate: "oct 2019",
+      endDate: "aou 2023",
+      description: ["Langue Française et littératures"],
+    }
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "mailto:uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://web.facebook.com/farid.adoi.3/",
+    twitter: "https://x.com/AdoiFarid",
+    github: "https://github.com/Fqr1d0",
+    email: "farid.adoi@epitech.eu",
+    linkedin: "https://www.linkedin.com/in/farid-sourou-adoï/",
   },
 
   projects: [
-    {
+/*     {
       title: "Astro Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    },
+    }, */
   ],
 };
