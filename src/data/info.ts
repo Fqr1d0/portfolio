@@ -7,7 +7,7 @@ export const info = {
   Je suis un développeur frontend qui aime jouer et dessiner avec des couleurs dans le code. Mon objectif est de fournir les
   interfaces les plus belles et les plus faciles à utiliser pour les sites web et les applications des startups. J'ai travaillé
   depuis trois (03) ans sur plusieurs projets que je vous invite à découvrir.
-   Les technologies que je maîtrise comprennent le HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, GSAP, Jquery, Vue JS et Electron JS. D'où,
+   Les technologies que je maîtrise comprennent : HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, GSAP, Jquery, Vue JS et Electron JS. D'où,
    j'ai mené à bien plusieurs projets web en partant de zéro. 
    Cependant, j'apprends continuellement et je n'arrête jamais d'explorer de nouvelles technologies.
    Ainsi, j'ai également acquis des connaissances en Astro JS, SCSS et plus encore.`,
