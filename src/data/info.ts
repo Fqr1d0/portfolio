@@ -53,7 +53,7 @@ export const info = {
       location: "Université d'Abomey-Calavi, Abomey-Calavi, Bénin",
       startDate: "Oct 2019",
       endDate: "Aou 2023",
-      description: ["Langue Française et littératures"],
+      description: ["Langue française et littératures"],
     }
   ],
 
