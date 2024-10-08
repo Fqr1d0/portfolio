@@ -2,9 +2,9 @@ export const info = {
   baseUrl: "https://astro-portfolio-farid.vercel.app",
   name: "Farid ADOI",
   jobDescription: "Développeur Frontend",
-  about: `Je suis un développeur Frontend basé à Cotonou, Bénin.
+  about: `Développeur Frontend basé à Cotonou au Bénin,
 
-  Je suis un développeur frontend qui aime jouer et dessiner avec des couleurs dans le code. Mon objectif est de fournir les
+  j'aime jouer et dessiner avec des couleurs dans le code. Mon objectif est de fournir les
   interfaces les plus belles et les plus faciles à utiliser pour les sites web et les applications des startups. J'ai travaillé
   depuis trois (03) ans sur plusieurs projets que je vous invite à découvrir.
    Les technologies que je maîtrise comprennent : HTML, CSS, JavaScript, Bootstrap, tailwind CSS, Laravel, Wordpress, GSAP, Jquery, Vue JS et Electron JS. Avec ces technos,
@@ -51,8 +51,8 @@ export const info = {
     {
       name: "Licence académique des Lettres Modernes",
       location: "Université d'Abomey-Calavi, Abomey-Calavi, Bénin",
-      startDate: "oct 2019",
-      endDate: "aou 2023",
+      startDate: "Oct 2019",
+      endDate: "Aou 2023",
       description: ["Langue Française et littératures"],
     }
   ],
