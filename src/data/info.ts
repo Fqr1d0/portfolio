@@ -19,7 +19,7 @@ export const info = {
       startDate: "Oct 2022",
       endDate: "Fev 2024",
       description: [
-        "✓ Publication des produits relatifs aux mangas et intégration du contenu", 
+        "✓ Publication des produits relatifs aux mangas et intégration du contenu",
         "sur Shopify",
       ],
     },
@@ -49,15 +49,6 @@ export const info = {
 
   education: [
     {
-      name: "Coding Academy by EPITECH",
-      location: "EPITECH Bénin, Cotonou, Bénin",
-      startDate: "Jui 2024",
-      endDate: "-",
-      description: [
-        "Développement web front-end",
-      ],
-    },
-    {
       name: "Licence académique des Lettres Modernes",
       location: "Université d'Abomey-Calavi, Abomey-Calavi, Bénin",
       startDate: "oct 2019",
@@ -74,13 +65,25 @@ export const info = {
     linkedin: "https://www.linkedin.com/in/farid-sourou-adoï/",
   },
 
+  certification: [
+    {
+      name: "Coding Academy by EPITECH",
+      location: "EPITECH Bénin, Cotonou, Bénin",
+      startDate: "Jui 2024",
+      endDate: "-",
+      description: [
+        "Développement web front-end",
+      ],
+    }
+  ],
+
   projects: [
-/*     {
-      title: "Astro Portfolio",
-      isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
-    }, */
+    /*     {
+          title: "Astro Portfolio",
+          isFeatured: true,
+          thumbnail: "/assets/images/astro-portfolio.png",
+          githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+          liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+        }, */
   ],
 };
