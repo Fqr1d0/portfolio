@@ -1,6 +1,6 @@
 # Portfolio Website - Astro
 
-Just change `src/data/info.ts` to get your personal portfolio.
+Just need to change `src/data/info.ts` and transform it into a personal portfolio.
 
 ## portfolio template for Developers!
 
